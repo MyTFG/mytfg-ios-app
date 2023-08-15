@@ -5,12 +5,12 @@ Substitution plan app for [Theodor-Fliedner-Gymnasium](https://tfg-duesseldorf.d
 <img
   src="AppStore-images/iPhone13_1.JPG"
   alt="Events view"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 <img
   src="AppStore-images/iPhone13_2.JPG"
   alt="Substitution plan view"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 <img
   src="AppStore-images/iPhone13_3.JPG"
   alt="Bus and tram departures"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
